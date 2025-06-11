@@ -1,6 +1,6 @@
 # Bonjour, je suis Leandre GNETO 👋
 
-🎯 Objectif : Devenir analyste de données professionnel
+analyste de données professionnel
 
 💻 Compétences :
 - Python 
